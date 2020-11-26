@@ -33,6 +33,7 @@
       "to": 59199
     }
   ],
+  "features": ["TranslationFile"],
   "contextSensitiveHelpUrl": "https://MSTutorialMRI.com/help/",
   "showMyCode": true,
   "runtime": "6.0"
