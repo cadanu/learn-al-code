@@ -12,6 +12,8 @@
 *.app
 #Translation Base-file
 *.g.xlf
+#App.json file
+app.json
 
 
 # End of https://www.toptal.com/developers/gitignore/api/al
